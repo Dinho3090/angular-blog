@@ -23,7 +23,7 @@
   color: grey;
 }
 .big-card-photo > img{
-  width: 255%;
+  width: 100%;
   border-radius: 8px;
   display: flex;
   align-items: right;
